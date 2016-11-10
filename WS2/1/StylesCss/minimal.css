@@ -1,0 +1,36 @@
+.container {
+    width: 100%;
+    height: 768px;
+}
+#lateral {
+    float: left;
+    width: 10%;
+    height: 100%;
+    background-color: aqua;
+}
+
+#central {
+    float: left;
+    background-color: beige;
+    width: 90%;
+    height: 100%;
+}
+
+#menu {
+    border: 1px solid lightblue;
+    background-color: #b0a9b3;
+}
+
+#menu ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+footer {
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+p {
+    margin: 15px;
+}
